@@ -1,0 +1,260 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'Accueil - Blade Walker</title>
+	 <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+	 <form action=file:///C:/Users/agath/Desktop/blare%20runner%20site/BLADEWALKER2049.htlm"" method="get">
+ <title>Moteur de recherche</title>
+    <style>
+	<center>
+        /* Style du formulaire de recherche */
+        body {
+            font-family: 'Orbitron', sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color:black;
+        }
+
+        .search-container {
+            text-align: center;
+            background-color:#FFFF62;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        .search-container input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            font-size: 16px;
+            margin-right: 10px;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+        }
+
+        .search-container button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color:white;
+            color:red;
+            border:white;
+            border-radius: 4px;
+        }
+
+        .search-container button:hover {
+            background-color:grey#FFFF62;
+        }
+    </style>
+</head>
+
+<a href="article%20anecdoctes.html">Cliquez ici pour lire l'article "Anecdotes"</a>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Page d'Accueil</title>
+    <style>
+        body {
+            font-family:'Orbitron', sans-serif;
+            background-color: #FFFF62
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color:#FFFF62;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .article-header {
+            font-size: 1.8em;
+            font-weight: bold;
+            color:red;
+        }
+        .article-summary {
+            font-size: 1.1em;
+            color: #666;
+            margin-top: 10px;
+        }
+        .read-more-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #FFFF62;
+            color:red;
+            text-decoration: none;
+            border-radius: 4px;
+            margin-top: 15px;
+            transition: background-color 0.3s ease;
+        }
+        .read-more-btn:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="search-container">
+       
+        <form action="file:///C:/Users/agath/Desktop/blare%20runner%20site/BLADEWALKER2049.htlm" method="get">
+            <input type="text" name="q" placeholder="Entrez votre recherche...">
+            <button type="submit">Rechercher</button>
+        </form>
+    </div>
+</center>
+    <style>
+        body {
+            font-family: 'Orbitron', sans-serif;
+            background-color: #FFFF62;
+            color:lightyellow;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+    
+    <style>
+        body {
+          
+			font-family: 'Orbitron', sans-serif;
+            margin: 10;
+            padding: 10;
+            background-color:#FFFF62;
+            color:lightyellow;
+            text-align: center;
+        }
+        
+
+        /* Barre de navigation */
+        nav {
+            background-color:red;
+            padding: 15px 0;
+        }
+
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul li {
+            margin: 0 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color:lightyellow;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 10px 20px;
+            display: block;
+        }
+
+        nav ul li a:hover {
+            background-color:red;
+        }
+
+        /* Image au centre de la page */
+        .image-container {
+            margin-top: 50px;
+        }
+
+        .image-container img {
+            max-width: 50%;
+            height: auto;
+        }
+
+        /* Texte du titre */
+        h1 {
+            font-size: 60px;
+            color: #333;
+            margin-right: 20px;
+			
+    
+		h1 
+            font-size: 70px;
+            color: red;
+            margin-center: 130px;
+            letter-spacing: 5px;
+            text-transform: uppercase;
+			;font-family: 'Orbitron', sans-serif;
+            margin: 10;
+            padding: 10;
+            background-color:#FFFF62 ;
+            color: red;
+            text-align: center;
+			
+
+        }
+		
+		</style>
+</head>
+<body>
+
+    <!-- Barre de navigation -->
+    <nav>
+        <ul>
+            <li><a href="file:///C:/Users/agath/Desktop/blare%20runner%20site/article%20anecdoctes.htlm">Anecdotes</a></li>
+			<title>Lien Hypertexte</title>
+</head>
+<body>
+
+    <a href="file:///C:/Users/agath/Desktop/blare%20runner%20site/article%20anecdoctes.htlm">Cliquez ici pour lire l'article "Anecdotes"</a>
+
+</body>
+</html>
+
+            <li><a href="#">Critique</a></li>
+            <li><a href="#">Faux Raccords</a></li>
+        </ul>
+    </nav>
+
+    <!-- Image au centre de la page d'accueil -->
+       
+
+	
+	<center>
+	<body>
+<p style="float:left">
+<p>
+<div class="container">
+ <Div Align=Left>
+ <BR> 
+    <h2 class="article-header">Dernier Article</h2>
+    <p class="article-summary">
+       Le dernier article parut de la semaine disponible : "la philosophie dans Blade Runner2049"
+
+    </p>
+	 <a href="file:///C:/Users/agath/Desktop/blare%20runner%20site/article%20anecdoctes.htlm" class="read-more-btn">Lire l'article complet</a>
+
+	        <BR>
+  
+</div></Div>
+</body>
+    <div class="image-container">
+	
+
+            
+		
+        <img src="https://www.delasuitedanslesimages.org/wp-content/uploads/2022/05/blade-runner.jpg" alt="Image Blade Walker" /> 
+	
+    </div>
+	
+
+</center>
+
+    <h1> 
+        	
+        BLADE WALKER</h1
+           
+
+
+
+</body>
+</html>

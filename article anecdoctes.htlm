@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anecdotes</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet"> <!-- Import de la police Orbitron -->
+    <style>
+
+	
+        body {
+            background-color: #FFFF62; 
+            color: red; 
+            font-family: 'Orbitron', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            font-size: 4em; 
+            margin-top: 50px; 
+        }
+    </style>
+</head>
+<body>
+    <h1>ANECDOTES</h1> <!-- Titre de la page -->
+
+</body>
+
+<img src="https://newstrum.com/wp-content/uploads/2017/10/blade-runner-2049.jpg" alt="Image Blade Walker" />
+</html>
